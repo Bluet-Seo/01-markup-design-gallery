@@ -1,0 +1,10 @@
+.color-box{
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+}
+.label{
+     width: 500px;
+    height: 500px;
+    background-color: aqua;
+}
