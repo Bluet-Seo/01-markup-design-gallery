@@ -1,10 +1,19 @@
+.container{
+    margin: 20px;
+}
 .color-box{
-    width: 500px;
-    height: 500px;
+    width: 200px;
+    height: 100px;
     background-color: blueviolet;
 }
 .label{
-     width: 500px;
-    height: 500px;
+     width: 100px;
+    height: 50px;
     background-color: aqua;
+}
+.green{
+   background-color: rgb(71, 203, 82);
+}
+.dakeblue{
+    background-color: rgb(0, 0, 74);
 }
