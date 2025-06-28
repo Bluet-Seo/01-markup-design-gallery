@@ -1,19 +1,39 @@
+body{
+    margin:0px;
+}
+
+
 .container{
-    margin: 20px;
+    margin: 10px;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+     gap: 20px;/*박스간격 조정해줌*/
+    width: 500px;/*컨테이너 사이즈는 500px까지만 사용가능*/
 }
 .color-box{
     width: 200px;
-    height: 100px;
+    height: 270px;
     background-color: blueviolet;
+   
 }
 .label{
-     width: 100px;
-    height: 50px;
-    background-color: aqua;
+     width:180px;
+    height: 120px;
+    background-color: rgb(228, 251, 255);
+    
 }
 .green{
    background-color: rgb(71, 203, 82);
 }
 .dakeblue{
     background-color: rgb(0, 0, 74);
+}
+
+.lavender{
+    background-color: rgb(197, 171, 252);
+}
+
+.sky{
+    background-color: rgb(181, 218, 255);
 }
