@@ -1,5 +1,6 @@
 body{
     margin:0px;
+    background-color: aliceblue;
 }
 
 
@@ -15,13 +16,13 @@ body{
     width: 200px;
     height: 270px;
     background-color: blueviolet;
-   
+    border: 5px solid white; /* 테두리 추가 */
 }
 .label{
-     width:180px;
-    height: 120px;
+     width:200px;
+    height: 100px;
     background-color: rgb(228, 251, 255);
-    
+    margin-top:20px;
 }
 .green{
    background-color: rgb(71, 203, 82);
