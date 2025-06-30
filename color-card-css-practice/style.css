@@ -2,10 +2,12 @@ body{
     margin:0px;
     background-color: aliceblue;
 }
-
+h1{
+    text-align: center;
+}
 
 .container{
-    margin: 10px;
+    margin: 0 auto;
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
