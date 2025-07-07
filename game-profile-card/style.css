@@ -13,11 +13,25 @@
     height: 200px;
     display: flex;
 }
+.middle-bar-button{
+    width: 400px;
+    height: 70px;
+}
+.bottom-bar{
+    width: 400px;
+    height: 350px;
+}
+.item{
+    display: flex;
+}
+
 .profile-img{
     width: 100px;
     height: 100px;
     border: 2px solid black;
 }
-.middle-button{
-    display: flex;
+.image-list{
+    width: 70px;
+    height: 70px;
+    border: 2px solid black;
 }
